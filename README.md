@@ -49,7 +49,7 @@ As the Data Analyst, I:
 - A Profit & Loss Statement provides a detailed breakdown of revenues, costs, and profits.
 - A chart highlights the Top/Bottom Customers & Products based on net sales.
   
-![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Finance_View.png)
+![Dashboard Overview](https://github.com/arpitojha-357/business-insight-360/blob/main/Screenshot%202026-07-21%20224843.png)
 
 ### 🤝 Sales View
 - A Performance Matrix plots Gross Margin against Net Sales for different stores and regions.
