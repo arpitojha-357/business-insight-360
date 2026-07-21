@@ -78,7 +78,7 @@ As the Data Analyst, I:
 - Tables provide a quick look at the Top 5 Customers & Products based on revenue contribution and Gross Margin.
 - Sub-zone performance is summarized in a single table, showing a quick comparison of financial health and risk across different geographic areas.
 
-![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Executive_View.png)
+![Dashboard Overview](https://github.com/arpitojha-357/business-insight-360/blob/main/Screenshot%202026-07-21%20222849.png)
 
 ---
 
