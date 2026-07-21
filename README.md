@@ -56,7 +56,7 @@ As the Data Analyst, I:
 - The Customer Performance table shows Net Sales (),GrossMargin(), and GM% for individual customers.
 - Unit Economics are detailed in a donut chart, breaking down total COGS (Cost of Goods Sold), Gross Margin, and Net Sales. 
 
-![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Sales_View.png)
+![Dashboard Overview](https://github.com/arpitojha-357/business-insight-360/blob/main/Screenshot%202026-07-21%20222956.png)
 
 ### 📣 Marketing View
 - Market Performance is visualized on a scatter plot, showing Gross Margin % across different product segments.
