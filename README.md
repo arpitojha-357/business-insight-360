@@ -63,7 +63,7 @@ As the Data Analyst, I:
 - A table provides a detailed view of Net Sales, Gross Margin, and Net Profit for various countries and segments. 
 - Unit Economics are detailed in a donut chart & Gross Margin Bifurcation chart shows the relationship between Gross Margin, Operational Expense, and Net Profit
 
-![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Marketing_View.png)
+![Dashboard Overview](https://github.com/arpitojha-357/business-insight-360/blob/main/Screenshot%202026-07-21%20222937.png)
 
 ### ⛓️ Supply Chain View
 - Forecast Accuracy and Net Error are the main metrics, with a trend chart showing performance over time.
