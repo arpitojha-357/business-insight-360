@@ -70,7 +70,7 @@ As the Data Analyst, I:
 - Key Metrics by Customer and by Product tables show forecast accuracy (FCA), net error, and a risk assessment (e.g., Excess Inventory or Out-of-Stock).  
 - The data helps in identifying inventory issues and optimizing supply chain operations.
 
-![Dashboard Overview](https://github.com/Shivam4410/Business-Insights-360-Data-Analysis-Project/blob/main/Supply_Chain_View.png)
+![Dashboard Overview](https://github.com/arpitojha-357/business-insight-360/blob/main/Screenshot%202026-07-21%20222914.png)
 
 ### 🧑‍💼 Executive View
 - A high-level summary of all key metrics including Net Sales, GM%, NP%, and Forecast Accuracy.
